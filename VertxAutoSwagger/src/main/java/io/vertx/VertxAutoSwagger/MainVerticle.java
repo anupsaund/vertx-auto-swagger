@@ -19,7 +19,6 @@ import io.vertx.ext.web.handler.ErrorHandler;
 import io.vertx.ext.web.handler.StaticHandler;
 import org.apache.commons.lang3.reflect.FieldUtils;
 
-
 import java.lang.reflect.Field;
 import java.lang.reflect.Type;
 import java.util.*;
